@@ -1,5 +1,6 @@
 <div>
- <img align="right" alt="hynaell-gif" height="160" style="border-radius:40px;" src="https://discord.com/channels/249578285543981057/844669263616540762/1004558334965317662">
+ <img autoplay align="right" alt="hynaell-gif" height="160" style="border-radius:40px;" 
+ src="https://media.giphy.com/media/ZrVyQ5KBNsLSDMF8kd/giphy.gif">
 </div>
 
 ## Faaala Dev ! 🤓
