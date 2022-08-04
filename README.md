@@ -1,5 +1,5 @@
 <div>
- <img autoplay align="right" alt="hynaell-gif" height="160" style="border-radius:40px;" 
+ <img align="right" alt="hynaell-gif" height="140"" 
  src="https://media.giphy.com/media/ZrVyQ5KBNsLSDMF8kd/giphy.gif">
 </div>
 
