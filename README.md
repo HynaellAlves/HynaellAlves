@@ -7,10 +7,10 @@
 
 #### Me chamo Hynaell Alves e seja bem vindo ao meu repositório Github <img align="center" alt="Github" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/HynaellAlves">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=HynaellAlves&hide=issues&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HynaellAlves&layout=compact&langs_count=7&theme=outrun"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=HynaellAlves&hide=issues&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HynaellAlves&layout=compact&langs_count=7&theme=outrun"/>
 </div>
 
 ### Destaques
