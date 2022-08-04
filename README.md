@@ -1,5 +1,5 @@
 <div>
- <img align="right" alt="hynaell-gif" height="120"" 
+ <img align="right" alt="hynaell-gif" height="100"" 
  src="https://camo.githubusercontent.com/6fc1d4eee2cc6cf9f84442620e3945db798f5bfabd1f2ae3811b597502d208e2/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a72567951354b424e734c53444d46386b642f67697068792e676966">
 </div>
 
@@ -9,8 +9,8 @@
 
 <div align="left">
   <a href="https://github.com/HynaellAlves">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=HynaellAlves&hide=issues&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HynaellAlves&layout=compact&langs_count=7&theme=outrun"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=HynaellAlves&hide=issues&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HynaellAlves&layout=compact&langs_count=7&theme=outrun"/>
 </div>
 
 ### Destaques
