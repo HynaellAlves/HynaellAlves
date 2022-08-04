@@ -1,5 +1,5 @@
 <div>
- <img align="right" alt="hynaell-gif" height="140"" 
+ <img align="right" alt="hynaell-gif" height="120"" 
  src="https://media.giphy.com/media/ZrVyQ5KBNsLSDMF8kd/giphy.gif">
 </div>
 
