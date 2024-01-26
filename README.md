@@ -1,6 +1,6 @@
 <div>
  <img align="right" alt="hynaell-gif" height="100"" 
- src="https://camo.githubusercontent.com/6fc1d4eee2cc6cf9f84442620e3945db798f5bfabd1f2ae3811b597502d208e2/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a72567951354b424e734c53444d46386b642f67697068792e676966">
+ src="https://giphy.com/gifs/ZrVyQ5KBNsLSDMF8kd">
 </div>
 
 ## Faaala Dev ! 🤓
