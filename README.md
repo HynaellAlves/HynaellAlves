@@ -2,7 +2,7 @@
 
 # Olá Visitante 🤓
 
-<img width='250' src="https://cdn.discordapp.com/attachments/1199104150206685344/1200507467025617006/giphy.gif?ex=65c66eb4&is=65b3f9b4&hm=4b67c5bb9505d6b90285101973fb136430b0e0eb3e09a3644104eb1b4e2d0c8d&"/>
+<img width='250' src='https://github.com/HynaellAlves/HynaellAlves/blob/master/octocat-1714401298851.png'/>
 
 ### Me chamo Hynaell Alves e seja muito bem vindo ao meu perfil. <img align="center" alt="Github" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 
