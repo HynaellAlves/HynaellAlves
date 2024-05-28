@@ -1,7 +1,7 @@
 
-<div align="center" style=" font-size: 3.5rem;">
+<div align="center" style="font-size: 3.5rem;">
 
-# **Hynaell Alves**  <img width='80' src="https://raw.githubusercontent.com/HynaellAlves/HynaellAlves/master/octocat-1714401298851.png">
+<h1><b>Hynaell Alves</b><img width='80' src="https://raw.githubusercontent.com/HynaellAlves/HynaellAlves/master/octocat-1714401298851.png"></h1>
 
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=hynaellalves&theme=transparent&bg_color=FFF&border_color=000&show_icons=true&icon_color=000&title_color=AF64FE&text_color=000&hide_title=true&hide-stars">
 <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=hynaellalves&repo=darkPurple&bg_color=FFF&border_color=000&show_icons=true&icon_color=000&title_color=AF64FE&text_color=000)](https://github.com/HynaellAlves/darkPurple">
